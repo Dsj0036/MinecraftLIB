@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|PS3">
+      <Configuration>Debug</Configuration>
+      <Platform>PS3</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|PS3">
+      <Configuration>Release</Configuration>
+      <Platform>PS3</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCTargetsPath Condition="'$(VCTargetsPath12)' != '' and '$(VSVersion)' == '' and '$(VisualStudioVersion)' == ''">$(VCTargetsPath12)</VCTargetsPath>
+    <ProjectGuid>{C4C5E634-969B-4BA3-86C0-077FBBF13762}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|PS3'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>SNC</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|PS3'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>SNC</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <PropertyGroup Condition="'$(DebuggerFlavor)'=='PS3Debugger'" Label="OverrideDebuggerDefaults">
+    <!--LocalDebuggerCommand>$(TargetPath)</LocalDebuggerCommand-->
+    <!--LocalDebuggerCommandArguments></LocalDebuggerCommandArguments-->
+    <!--LocalDebuggerCommandLine>-r -e -m</LocalDebuggerCommandLine-->
+    <!--LocalRunCommandLine>-r</LocalRunCommandLine-->
+    <!--LocalTunerCommandLine></LocalTunerCommandLine-->
+    <!--LocalDebuggerFileServingDirectory>$(ProjectDir)</LocalDebuggerFileServingDirectory-->
+    <!--LocalDebuggerHomeDirectory>$(ProjectDir)</LocalDebuggerHomeDirectory-->
+    <!--LocalDebuggerProjectFile></LocalDebuggerProjectFile-->
+    <!--LocalDebuggerResetType>Soft</LocalDebuggerResetType-->
+    <!--LocalDebuggerClearTty>False</LocalDebuggerClearTty-->
+  </PropertyGroup>
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|PS3'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|PS3'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|PS3'">
+    <ClCompile>
+      <PreprocessorDefinitions>_DEBUG;__CELL_ASSERT__;%(PreprocessorDefinitions);</PreprocessorDefinitions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|PS3'">
+    <ClCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions);</PreprocessorDefinitions>
+      <OptimizationLevel>Level2</OptimizationLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="src\console\block\Block.h" />
+    <ClInclude Include="src\console\block\Material.h" />
+    <ClInclude Include="src\console\block\Pos.h" />
+    <ClInclude Include="src\console\Callback.h" />
+    <ClInclude Include="src\console\CMinecraftApp.h" />
+    <ClInclude Include="src\console\CMinecraftApp.cpp" />
+    <ClInclude Include="src\console\ConsoleUIController.h" />
+    <ClInclude Include="src\console\CProfile.h" />
+    <ClInclude Include="src\console\Difficulty.hpp" />
+    <ClInclude Include="src\console\Direction.h" />
+    <ClInclude Include="src\console\entity\DamageSource.h" />
+    <ClInclude Include="src\console\entity\Entity.h" />
+    <ClInclude Include="src\console\entity\LivingEntity.h" />
+    <ClInclude Include="src\console\EUIScene.h" />
+    <ClInclude Include="src\console\GameType.h" />
+    <ClInclude Include="src\console\gl.h" />
+    <ClInclude Include="src\console\Level.h" />
+    <ClInclude Include="src\console\LevelGenerationOptions.h" />
+    <ClInclude Include="src\console\math\struct.h" />
+    <ClInclude Include="src\console\Minigame.h" />
+    <ClInclude Include="src\console\nbt\CompoundTag.h" />
+    <ClInclude Include="src\console\not_known.hpp" />
+    <ClInclude Include="src\console\SoundEvent.h" />
+    <ClInclude Include="src\console\types.h" />
+    <ClInclude Include="src\console\UIController.h" />
+    <ClInclude Include="src\extension.hpp" />
+    <ClInclude Include="src\master.hpp" />
+    <ClInclude Include="src\console\Minecraft.h" />
+    <ClInclude Include="src\module\call.h" />
+    <ClInclude Include="src\module\toc.h" />
+    <ClInclude Include="src\stdext.h" />
+    <ClInclude Include="src\system.hpp" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\console\block\Block.cpp" />
+    <ClCompile Include="src\console\block\Material.cpp" />
+    <ClCompile Include="src\console\ConsoleUIController.cpp" />
+    <ClCompile Include="src\console\entity\DamageSource.cpp" />
+    <ClCompile Include="src\console\entity\Entity.cpp" />
+    <ClCompile Include="src\console\entity\LivingEntity.cpp" />
+    <ClCompile Include="src\console\GameType.cpp" />
+    <ClCompile Include="src\console\gl.cpp" />
+    <ClCompile Include="src\console\Level.cpp" />
+    <ClCompile Include="src\console\math\struct.cpp" />
+    <ClCompile Include="src\console\Minecraft.cpp" />
+    <ClCompile Include="src\console\Minigame.cpp" />
+    <ClCompile Include="src\console\UIController.cpp" />
+    <ClCompile Include="src\module\call.cpp" />
+    <ClCompile Include="src\stdext.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|PS3'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|PS3'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <Import Condition="'$(ConfigurationType)' == 'Makefile' and Exists('$(VCTargetsPath)\Platforms\$(Platform)\SCE.Makefile.$(Platform).targets')" Project="$(VCTargetsPath)\Platforms\$(Platform)\SCE.Makefile.$(Platform).targets" />
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

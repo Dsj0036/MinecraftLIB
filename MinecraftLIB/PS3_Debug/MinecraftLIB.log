@@ -1,0 +1,426 @@
+﻿  Level.cpp
+SNCCL : warning 1643: the file being compiled needs to be in the same directory as the file used to create the PCH file. Requirement can be overridden by the -Xpch_override option
+  
+SNCCL : warning 631: the command line options do not match those used when precompiled header file "PS3_Debug\MinecraftLIB.pch" was created
+  
+.\src/system.hpp(74,1): warning 376: declaration requires a typedef name
+  
+.\src\system.hpp(77,8): warning 178: variable "factor" was declared but never referenced
+  
+.\src\system.hpp(116,7): warning 178: variable "factor" was declared but never referenced
+  
+.\src\console\block\Block.h(10,6): warning 429: qualified name is not allowed in member declaration
+  
+.\src\console\block\Block.h(13,6): warning 429: qualified name is not allowed in member declaration
+  
+.\src\console\block\Block.h(14,6): warning 429: qualified name is not allowed in member declaration
+  
+.\src\console\block\Block.h(15,6): warning 429: qualified name is not allowed in member declaration
+  
+.\src\console\block\Block.h(16,6): warning 429: qualified name is not allowed in member declaration
+  
+.\src\console\block\Block.h(17,6): warning 429: qualified name is not allowed in member declaration
+  
+.\src\console\block\Block.h(18,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(30,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(31,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(32,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(33,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(34,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(35,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(38,4): warning 942: missing return statement at end of non-void function "Minecraft::UsageDirection::getPointer"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(48,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(51,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(54,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(57,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(60,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(63,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(66,6): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(72,32): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(73,33): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(74,33): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(75,33): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(76,33): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(77,33): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Direction.h(78,25): warning 112: statement is unreachable
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(27,2): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(28,2): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(29,2): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(30,2): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(31,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(32,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(33,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(34,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(35,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(36,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(37,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(38,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(39,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(40,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(41,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(42,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(43,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(44,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(45,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(46,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(47,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(48,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(49,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(50,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(51,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(52,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(53,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(54,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(55,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(56,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(57,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(58,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(59,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(60,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(61,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(62,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(63,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(64,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(65,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(66,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(67,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(68,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(69,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(70,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(71,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(72,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(73,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(74,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(75,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(76,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(77,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(78,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(79,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(80,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(81,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(82,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(83,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(84,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(85,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(86,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(87,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(88,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(89,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(90,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(91,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(92,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(93,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(94,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(95,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(96,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(97,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(98,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(99,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(100,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(101,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(102,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(103,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(104,6): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.h(105,2): warning 429: qualified name is not allowed in member declaration
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(33,100): warning 942: missing return statement at end of non-void function "Minecraft::Level::containsFireBlock"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(34,101): warning 942: missing return statement at end of non-void function "Minecraft::Level::containsMaterial"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(35,91): warning 942: missing return statement at end of non-void function "Minecraft::Level::isInLava"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(36,99): warning 942: missing return statement at end of non-void function "Minecraft::Level::containsLiquid"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(37,109): warning 942: missing return statement at end of non-void function "Minecraft::Level::isUnderWater"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(38,119): warning 942: missing return statement at end of non-void function "Minecraft::Level::isTouchingMaterial"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(39,98): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSeenPercent"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(40,157): warning 942: missing return statement at end of non-void function "Minecraft::Level::extinguishFire"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(41,77): warning 942: missing return statement at end of non-void function "Minecraft::Level::gatherChunkSourceStats"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(42,100): warning 942: missing return statement at end of non-void function "Minecraft::Level::getPendingBlockEntityAt"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(43,91): warning 942: missing return statement at end of non-void function "Minecraft::Level::getBlockEntity"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(44,139): warning 942: missing return statement at end of non-void function "Minecraft::Level::setBlockEntity"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(45,94): warning 942: missing return statement at end of non-void function "Minecraft::Level::removeBlockEntity"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(46,115): warning 942: missing return statement at end of non-void function "Minecraft::Level::markForRemoval"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(47,92): warning 942: missing return statement at end of non-void function "Minecraft::Level::isFullAABBBlock"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(48,123): warning 942: missing return statement at end of non-void function "Minecraft::Level::isSolidBlockingBlockInLoadedChunk"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(50,99): warning 942: missing return statement at end of non-void function "Minecraft::Level::isConsideredSolidBlock"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(51,74): warning 942: missing return statement at end of non-void function "Minecraft::Level::updateSkyBrightness"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(52,59): warning 942: missing return statement at end of non-void function "Minecraft::Level::tick"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(53,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::prepareWeather"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(54,67): warning 942: missing return statement at end of non-void function "Minecraft::Level::getGameRules"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(55,77): warning 942: missing return statement at end of non-void function "Minecraft::Level::tickWeather"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(56,82): warning 942: missing return statement at end of non-void function "Minecraft::Level::buildAndPrepareChunksToPoll"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(57,65): warning 942: missing return statement at end of non-void function "Minecraft::Level::tickBlocks"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(58,122): warning 942: missing return statement at end of non-void function "Minecraft::Level::instaTick"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(59,89): warning 942: missing return statement at end of non-void function "Minecraft::Level::shouldFreeze(const Minecraft::Level::BlockPos &)"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(60,107): warning 942: missing return statement at end of non-void function "Minecraft::Level::calcSnowBlockDepth"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(61,82): warning 942: missing return statement at end of non-void function "Minecraft::Level::tickPendingTicks"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(62,103): warning 942: missing return statement at end of non-void function "Minecraft::Level::fetchTicksInChunk"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(63,103): warning 942: missing return statement at end of non-void function "Minecraft::Level::fetchTicksInArea"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(64,74): warning 942: missing return statement at end of non-void function "Minecraft::Level::getEntity"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(65,179): warning 942: missing return statement at end of non-void function "Minecraft::Level::mayPlace"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(66,76): warning 942: missing return statement at end of non-void function "Minecraft::Level::setSeaLevel"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(67,117): warning 942: missing return statement at end of non-void function "Minecraft::Level::getDirectSignal"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(68,71): warning 942: missing return statement at end of non-void function "Minecraft::Level::getGeneratorType"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(69,94): warning 942: missing return statement at end of non-void function "Minecraft::Level::getDirectSignalTo"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(70,111): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSignal"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(71,111): warning 942: missing return statement at end of non-void function "Minecraft::Level::hasSignal"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(72,94): warning 942: missing return statement at end of non-void function "Minecraft::Level::hasNeighborSignal"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(73,98): warning 942: missing return statement at end of non-void function "Minecraft::Level::getBestNeighborSignal"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(74,95): warning 942: missing return statement at end of non-void function "Minecraft::Level::getPlayerByName"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(75,95): warning 942: missing return statement at end of non-void function "Minecraft::Level::getPlayerByUUID"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(76,67): warning 942: missing return statement at end of non-void function "Minecraft::Level::checkSession"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(77,66): warning 942: missing return statement at end of non-void function "Minecraft::Level::getGameTime"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(78,65): warning 942: missing return statement at end of non-void function "Minecraft::Level::getDayTime"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(79,76): warning 942: missing return statement at end of non-void function "Minecraft::Level::ShouldForceTimeUpdate"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(80,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::getWorldBorder"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(81,72): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSharedSpawnPos"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(82,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::getChunkSource"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(83,70): warning 942: missing return statement at end of non-void function "Minecraft::Level::getLevelStorage"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(84,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::getCloudHeight"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(85,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::getFogDistance"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(86,79): warning 942: missing return statement at end of non-void function "Minecraft::Level::setFogDistance"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(87,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::useNewSeaLevel"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(88,75): warning 942: missing return statement at end of non-void function "Minecraft::Level::getHasBeenInCreative"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(89,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSaveVersion"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(90,77): warning 942: missing return statement at end of non-void function "Minecraft::Level::getOriginalSaveVersion"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(91,82): warning 942: missing return statement at end of non-void function "Minecraft::Level::setThunderLevel"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(92,79): warning 942: missing return statement at end of non-void function "Minecraft::Level::setRainLevel"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(93,67): warning 942: missing return statement at end of non-void function "Minecraft::Level::isThundering"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(94,64): warning 942: missing return statement at end of non-void function "Minecraft::Level::isRaining"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(95,70): warning 942: missing return statement at end of non-void function "Minecraft::Level::getWeatherState"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(96,94): warning 942: missing return statement at end of non-void function "Minecraft::Level::isSnowTemperature"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(97,88): warning 942: missing return statement at end of non-void function "Minecraft::Level::isRainingAt"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(98,88): warning 942: missing return statement at end of non-void function "Minecraft::Level::isSnowingAt"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(99,86): warning 942: missing return statement at end of non-void function "Minecraft::Level::isHumidAt"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(100,98): warning 942: missing return statement at end of non-void function "Minecraft::Level::setSavedDataStorage"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(101,74): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSavedDataStorage"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(102,137): warning 942: missing return statement at end of non-void function "Minecraft::Level::setSavedData"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(103,98): warning 942: missing return statement at end of non-void function "Minecraft::Level::getFreeAuxValueFor"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(104,72): warning 942: missing return statement at end of non-void function "Minecraft::Level::getMaxBuildHeight"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(105,64): warning 942: missing return statement at end of non-void function "Minecraft::Level::getHeight"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(106,65): warning 942: missing return statement at end of non-void function "Minecraft::Level::isAllEmpty"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(107,71): warning 942: missing return statement at end of non-void function "Minecraft::Level::getHorizonHeight"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(108,122): warning 942: missing return statement at end of non-void function "Minecraft::Level::updateNeighbourForOutputSignal"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(109,68): warning 942: missing return statement at end of non-void function "Minecraft::Level::getDifficulty"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(110,99): warning 942: missing return statement at end of non-void function "Minecraft::Level::getCurrentDifficultyAt"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(111,67): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSkyDarken()"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(112,77): warning 942: missing return statement at end of non-void function "Minecraft::Level::setSkyDarken"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(113,70): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSkyFlashTime"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(114,80): warning 942: missing return statement at end of non-void function "Minecraft::Level::setSkyFlashTime"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(115,69): warning 942: missing return statement at end of non-void function "Minecraft::Level::isFindingSpawn"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(116,81): warning 942: missing return statement at end of non-void function "Minecraft::Level::setFindingSpawn"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(117,66): warning 942: missing return statement at end of non-void function "Minecraft::Level::getVillages"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(118,85): warning 942: missing return statement at end of non-void function "Minecraft::Level::getSpecialMultiplier"
+  
+C:\Users\root\source\repos\MinecraftLIB\MinecraftLIB\src\console\Level.cpp(119,68): warning 942: missing return statement at end of non-void function "Minecraft::Level::getLootTables"
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=uint, Arguments=<Minecraft::Level *, std::uint32_t>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<uint>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<uint, uint>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<uint, float>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<float>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<Minecraft::Level *, Minecraft::Level::BlockPos>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<uint, bool>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<Minecraft::Level::BlockPos, int>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<Minecraft::Level::BlockPos, int, bool>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<Minecraft::Level::BlockPos>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<Minecraft::Level *>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=Minecraft::LevelData *, Arguments=<Minecraft::Level *>]" was referenced but not defined
+  
+.\src\module\call.h(21,9): warning 823: extern inline function "Call<R,Arguments...>(long long, Arguments...) [with R=any, Arguments=<Minecraft::Level::BlockPos, bool>]" was referenced but not defined
+  
+  MinecraftLIB.vcxproj -> C:\Users\root\source\repos\MinecraftLIB\PS3_Debug\MinecraftLIB.a

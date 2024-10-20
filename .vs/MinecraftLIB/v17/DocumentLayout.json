@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\LevelGenerationOptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\LevelGenerationOptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Minecraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\Minecraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Minecraft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\Minecraft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\gl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\gl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\master.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\master.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\CMinecraftApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\CMinecraftApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\ConsoleUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\ConsoleUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\GameType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C5E634-969B-4BA3-86C0-077FBBF13762}|MinecraftLIB\\MinecraftLIB.vcxproj|solutionrelative:MinecraftLIB\\src\\console\\GameType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 339,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1651552d-26f6-4591-b1c5-654d75c10c00}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelGenerationOptions.h",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\LevelGenerationOptions.h",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\LevelGenerationOptions.h",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\LevelGenerationOptions.h",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\LevelGenerationOptions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T22:46:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Minecraft.h",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Minecraft.h",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\Minecraft.h",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Minecraft.h",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\Minecraft.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T22:39:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleUIController.h",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\ConsoleUIController.h",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\ConsoleUIController.h",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\ConsoleUIController.h",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\ConsoleUIController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T22:35:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "master.hpp",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\master.hpp",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\master.hpp",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\master.hpp",
+              "RelativeToolTip": "MinecraftLIB\\src\\master.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T22:34:13.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gl.h",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\gl.h",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\gl.h",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\gl.h",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\gl.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T22:22:06.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Level.cpp",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\Level.cpp",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Level.cpp",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\Level.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T22:16:12.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minecraft.cpp",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Minecraft.cpp",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\Minecraft.cpp",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\Minecraft.cpp",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\Minecraft.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T22:04:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMinecraftApp.h",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\CMinecraftApp.h",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\CMinecraftApp.h",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\CMinecraftApp.h",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\CMinecraftApp.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T22:03:55.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameType.cpp",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\GameType.cpp",
+              "RelativeDocumentMoniker": "MinecraftLIB\\src\\console\\GameType.cpp",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MinecraftLIB\\MinecraftLIB\\src\\console\\GameType.cpp",
+              "RelativeToolTip": "MinecraftLIB\\src\\console\\GameType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T22:03:18.998Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="src\console\UIController.cpp" />
+    <ClCompile Include="src\module\call.cpp" />
+    <ClCompile Include="src\console\ConsoleUIController.cpp" />
+    <ClCompile Include="src\stdext.cpp" />
+    <ClCompile Include="src\console\math\struct.cpp" />
+    <ClCompile Include="src\console\block\Material.cpp" />
+    <ClCompile Include="src\console\entity\DamageSource.cpp" />
+    <ClCompile Include="src\console\block\Block.cpp" />
+    <ClCompile Include="src\console\entity\LivingEntity.cpp" />
+    <ClCompile Include="src\console\Minigame.cpp" />
+    <ClCompile Include="src\console\Minecraft.cpp" />
+    <ClCompile Include="src\console\entity\Entity.cpp" />
+    <ClCompile Include="src\console\GameType.cpp" />
+    <ClCompile Include="src\console\Level.cpp" />
+    <ClCompile Include="src\console\gl.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="src\master.hpp" />
+    <ClInclude Include="src\console\UIController.h" />
+    <ClInclude Include="src\console\EUIScene.h" />
+    <ClInclude Include="src\module\toc.h" />
+    <ClInclude Include="src\system.hpp" />
+    <ClInclude Include="src\module\call.h" />
+    <ClInclude Include="src\console\ConsoleUIController.h" />
+    <ClInclude Include="src\stdext.h" />
+    <ClInclude Include="src\console\SoundEvent.h" />
+    <ClInclude Include="src\console\CProfile.h" />
+    <ClInclude Include="src\console\Callback.h" />
+    <ClInclude Include="src\console\types.h" />
+    <ClInclude Include="src\console\CMinecraftApp.h" />
+    <ClInclude Include="src\console\CMinecraftApp.cpp" />
+    <ClInclude Include="src\console\LevelGenerationOptions.h" />
+    <ClInclude Include="src\console\Level.h" />
+    <ClInclude Include="src\console\not_known.hpp" />
+    <ClInclude Include="src\console\entity\LivingEntity.h" />
+    <ClInclude Include="src\console\entity\Entity.h" />
+    <ClInclude Include="src\console\math\struct.h" />
+    <ClInclude Include="src\console\block\Material.h" />
+    <ClInclude Include="src\console\entity\DamageSource.h" />
+    <ClInclude Include="src\console\block\Pos.h" />
+    <ClInclude Include="src\console\nbt\CompoundTag.h" />
+    <ClInclude Include="src\console\block\Block.h" />
+    <ClInclude Include="src\extension.hpp" />
+    <ClInclude Include="src\console\Minecraft.h" />
+    <ClInclude Include="src\console\Minigame.h" />
+    <ClInclude Include="src\console\Direction.h" />
+    <ClInclude Include="src\console\Difficulty.hpp" />
+    <ClInclude Include="src\console\GameType.h" />
+    <ClInclude Include="src\console\gl.h" />
+  </ItemGroup>
+</Project>
